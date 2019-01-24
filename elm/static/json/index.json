@@ -1,0 +1,32 @@
+{
+  "swiper1_con":[
+    [
+            {"imgpic":"ec21096d528b7cfd23cdd894f01c6jpeg.jpeg","tit":"地方菜系"},
+            {"imgpic":"b7ba9547aa700bd20d0420e1794a8jpeg.jpeg","tit":"麻辣烫"},
+            {"imgpic":"314b6da88ab6c7ae9828f91652d40jpeg.jpeg","tit":"速食简餐"},
+            {"imgpic":"6f2631288a44ec177204e05cbcb93jpeg.jpeg","tit":"地方小吃"},
+            {"imgpic":"b02bd836411c016935d258b300cfejpeg.jpeg","tit":"米粉面馆"},
+            {"imgpic":"b02bd836411c016935d258b300cfejpeg.jpeg","tit":"大牌惠吃"},
+            {"imgpic":"dc885d2ce022d2ee60495acafb795jpeg.jpeg","tit":"包子粥店"},
+            {"imgpic":"0fb469b2da210827ec16896e00420jpeg.jpeg","tit":"炸鸡炸串"},
+            {"imgpic":"432619fb21a40b05cd25d11eca02djpeg.jpeg","tit":"汉堡披萨"},
+            {"imgpic":"9fd298fa84d49748984e082777e90jpeg.jpeg","tit":"鸭脖卤味"}
+    ],
+    [
+            {"imgpic":"a867c870b22bc74c87c348b75528djpeg.jpeg","tit":"美食"},
+            {"imgpic":"8b589472823fa97666cef19af644cjpeg.jpeg","tit":"午餐"},
+            {"imgpic":"76a23eb90dada42528bc41499d6f8jpeg.jpeg","tit":"商超便利"},
+            {"imgpic":"dd7c960f08cdc756b1d3ad54978fdjpeg.jpeg","tit":"水果"},
+            {"imgpic":"af108e256ebc9f02db599592ae655jpeg.jpeg","tit":"医疗健康"},
+            {"imgpic":"c888acb2c8ba9e0c813f36ec9e90ajpeg.jpeg","tit":"鲜花绿植"},
+            {"imgpic":"e42997b86b232161a5a16ab813ae8jpeg.jpeg","tit":"厨房生鲜"},
+            {"imgpic":"bceb19258e3264e64fb856722c3c1jpeg.jpeg","tit":"跑腿代购"},
+            {"imgpic":"696aa5cf9820adada9b11a3d14bf5jpeg.jpeg","tit":"甜品饮品"},
+            {"imgpic":"bebe83947afee0b0f38257b0e3866jpeg.jpeg","tit":"领红包"}
+    ]
+  ],
+  "qiang":{"q1":{"h3":"品质套餐","p1":"搭配齐全吃得好","p2":"立即抢购","pic":"16ff085900d62b8d60fa7e9c6b65dpng.png"},
+            "q2":{"h3":"限量抢购","p1":"超值美味9.9元起","p2":3734,"pic":"0fa0ed514c093a7138b0b9a50d61fpng.png"}
+  },
+  "sw2":["8012dcb83434050f0363316f24809jpeg.jpeg","6e8aa8e548c6d64ba1c50db538f98jpeg.jpeg","456ea6285819f7932d8606bffeb35jpeg.jpeg"]
+}
